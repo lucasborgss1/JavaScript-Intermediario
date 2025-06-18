@@ -1,4 +1,0 @@
-Expressões regulares 
-
--> São padrões de texto usados para corresponder, encontrar, validar ou manipular strings de acordo com um padrão especificado.
--> São uma ferramenta poderosa para processamento de texto em diversas linguagens de programação e aplicações. 

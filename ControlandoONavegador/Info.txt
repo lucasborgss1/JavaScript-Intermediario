@@ -1,0 +1,3 @@
+Window => O objeto window representa uma janela que contém um elemento DOM
+Location => Informações sobre a URL atual.
+History => A propriedade só de leitura Window.history retorna uma referência ao objeto History, que fornece uma interface para manipular o histórico de sessão do navegador (páginas visitadas na guia ou quadro em que a página atual é carregada).
